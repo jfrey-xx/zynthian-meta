@@ -1,0 +1,15 @@
+[submodule "zyncoder"]
+	path = zyncoder
+	url = ./zyncoder/
+[submodule "zynthian-data"]
+	path = zynthian-data
+	url = ./zynthian-data/
+[submodule "zynthian-emuface"]
+	path = zynthian-emuface
+	url = ./zynthian-emuface/
+[submodule "zynthian-sys"]
+	path = zynthian-sys
+	url = ./zynthian-sys/
+[submodule "zynthian-ui"]
+	path = zynthian-ui
+	url = ./zynthian-ui/
