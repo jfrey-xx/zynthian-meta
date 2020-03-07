@@ -13,9 +13,6 @@
 [submodule "zynthian-ui"]
 	path = zynthian-ui
 	url = ./zynthian-ui/
-[submodule "jalv"]
-	path = jalv
-	url = https://github.com/zynthian/jalv.git./zynthian-sw/jalv
 [submodule "zynthian-sw/jalv"]
 	path = zynthian-sw/jalv
 	url = https://github.com/zynthian/jalv.git
