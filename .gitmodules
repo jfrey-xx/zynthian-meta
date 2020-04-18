@@ -3,16 +3,16 @@
 	url = https://github.com/zynthian/zyncoder.git
 [submodule "zynthian-data"]
 	path = zynthian-data
-	url = ./zynthian-data/
+	url = https://github.com/zynthian/zynthian-data.git
 [submodule "zynthian-emuface"]
 	path = zynthian-emuface
-	url = ./zynthian-emuface/
+	url = https://github.com/jfrey-xx/zynthian-emuface.git
 [submodule "zynthian-sys"]
 	path = zynthian-sys
-	url = ./zynthian-sys/
+	url = https://github.com/zynthian/zynthian-sys.git
 [submodule "zynthian-ui"]
 	path = zynthian-ui
-	url = ./zynthian-ui/
+	url = https://github.com/jfrey-xx/zynthian-ui.git
 [submodule "zynthian-sw/jalv"]
 	path = zynthian-sw/jalv
 	url = https://github.com/zynthian/jalv.git
