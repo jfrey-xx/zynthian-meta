@@ -1,6 +1,6 @@
 [submodule "zyncoder"]
 	path = zyncoder
-	url = ./zyncoder/
+	url = https://github.com/zynthian/zyncoder.git
 [submodule "zynthian-data"]
 	path = zynthian-data
 	url = ./zynthian-data/
