@@ -17,6 +17,9 @@ export ZYNTHIAN_UI_FONT_FAMILY="Audiowide"
 export ZYNTHIAN_UI_FONT_SIZE="14"
 export ZYNTHIAN_UI_ENABLE_CURSOR="0"
 export ZYNTHIAN_LOG_LEVEL=10
+export ZYNTHIAN_WIRING_ENCODER_A=""
+export ZYNTHIAN_WIRING_ENCODER_B=""
+export ZYNTHIAN_WIRING_SWITCHES=""
 #export ZYNTHIAN_MY_DATA_DIR=/home/jfrey/Bidouilles/zynthian/zynthian-my-data/
 
 export ZYNTHIAN_DATA_DIR=$ZYNTHIAN_REAL_DIR/zynthian-data/
