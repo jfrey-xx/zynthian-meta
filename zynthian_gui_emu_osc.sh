@@ -20,6 +20,7 @@ export ZYNTHIAN_LOG_LEVEL=10
 export ZYNTHIAN_WIRING_ENCODER_A=""
 export ZYNTHIAN_WIRING_ENCODER_B=""
 export ZYNTHIAN_WIRING_SWITCHES=""
+export ZYNTHIAN_UI_FONT_SIZE=10
 #export ZYNTHIAN_MY_DATA_DIR=/home/jfrey/Bidouilles/zynthian/zynthian-my-data/
 
 export ZYNTHIAN_DATA_DIR=$ZYNTHIAN_REAL_DIR/zynthian-data/
