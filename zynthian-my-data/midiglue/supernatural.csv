@@ -1,0 +1,7 @@
+type,name,MSB,LSB,PC
+Piano,Grand Piano 1,0,68,0
+Piano,Grand Piano 2,16,67,0
+Piano,Grand Piano 3,8,66,1
+Piano,Ragtime Piano,0,64,3
+Piano,Harpsichord 1,0,66,6
+Piano,Harpsichord 2,8,66,6

@@ -1,0 +1,35 @@
+type,name,MSB,LSB,PC
+Chromatic Percussion,Celesta,121,0,8
+Chromatic Percussion,Celesta 2,121,1,8
+Chromatic Percussion,Celestial,121,2,8
+Chromatic Percussion,Glockenspiel,121,0,9
+Chromatic Percussion,Tinespiel,121,1,9
+Chromatic Percussion,Kids Percussion,121,2,9
+Chromatic Percussion,Music Box,121,0,10
+Chromatic Percussion,Orgel,121,1,10
+Chromatic Percussion,Vibraphone,121,0,11
+Chromatic Percussion,Wet Vibraphone,121,1,11
+Chromatic Percussion,Jazz Rtm,121,2,11
+Chromatic Percussion,Vibes KSP,121,3,11
+Chromatic Percussion,Marimba,121,0,12
+Chromatic Percussion,Wide Marimba,121,1,12
+Chromatic Percussion,Africa,121,2,12
+Chromatic Percussion,Marimba KSP,121,3,12
+Chromatic Percussion,Sine Marimba,121,4,12
+Chromatic Percussion,Balimba,121,5,12
+Chromatic Percussion,Log Drum,121,6,12
+Chromatic Percussion,Xylophone,121,0,13
+Chromatic Percussion,Xylophone 2,121,1,13
+Chromatic Percussion,Tubular Bell,121,0,14
+Chromatic Percussion,Church Bell,121,1,14
+Chromatic Percussion,Carillon,121,2,14
+Chromatic Percussion,Orient Bell,121,3,14
+Chromatic Percussion,Small Bell,121,4,14
+Chromatic Percussion,Ringing Clock,121,5,14
+Chromatic Percussion,Cosmic,121,6,14
+Chromatic Percussion,Wine Glass,121,7,14
+Chromatic Percussion,Dulcimer,121,0,15
+Chromatic Percussion,Applichan Dulcimer,121,1,15
+Chromatic Percussion,Hammered Dulcimer,121,2,15
+Chromatic Percussion,Cimbalom,121,3,15
+Chromatic Percussion,Santur,121,4,15
