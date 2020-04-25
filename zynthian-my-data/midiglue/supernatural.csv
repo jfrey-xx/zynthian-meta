@@ -1,7 +1,107 @@
-type,name,MSB,LSB,PC
-Piano,Grand Piano 1,0,68,0
-Piano,Grand Piano 2,16,67,0
-Piano,Grand Piano 3,8,66,1
-Piano,Ragtime Piano,0,64,3
-Piano,Harpsichord 1,0,66,6
-Piano,Harpsichord 2,8,66,6
+type,orig_name,name,MSB,LSB,PC
+Piano,Concert Piano,Piano: Concert Piano,0,68,0
+Piano,Ballad Piano,Piano: Ballad Piano,16,67,0
+Piano,Mellow Piano,Piano: Mellow Piano,4,64,0
+Piano,Bright Piano,Piano: Bright Piano,8,66,1
+Piano,Upright Piano,Piano: Upright Piano,16,64,0
+Piano,Mellow Upright,Piano: Mellow Upright,1,65,0
+Piano,Bright Upright,Piano: Bright Upright,1,66,0
+Piano,Rock Piano,Piano: Rock Piano,8,64,2
+Piano,Ragtime Piano,Piano: Ragtime Piano,0,64,3
+Piano,Bright Forte,Piano: Bright Forte,2,66,0
+Piano,SA Piano 3,Piano: SA Piano 3,8,71,2
+Piano,70's E.Grand,Piano: 70's E.Grand,8,72,2
+Piano,Magical Piano,Piano: Magical Piano,47,65,2
+Piano,Harpsichord,Piano: Harpsichord,0,67,6
+Piano,Harpsi 8'+4',Piano: Harpsi 8'+4',8,67,6
+E. Piano,1976SuitCase,E. Piano: 1976SuitCase,8,71,4
+E. Piano,Tine EP Lite,E. Piano: Tine EP Lite,8,70,4
+E. Piano,ModifiedDyno,E. Piano: ModifiedDyno,16,70,4
+E. Piano,VR EP 1,E. Piano: VR EP 1,8,69,4
+E. Piano,Wurly 200,E. Piano: Wurly 200,25,64,4
+E. Piano,Pure Wurly,E. Piano: Pure Wurly,25,65,4
+E. Piano,Phase EP Mix,E. Piano: Phase EP Mix,8,68,4
+E. Piano,80's FM EP,E. Piano: 80's FM EP,0,68,5
+E. Piano,MetalicEP Ex,E. Piano: MetalicEP Ex,0,69,5
+E. Piano,SA E.Piano 1,E. Piano: SA E.Piano 1,32,64,5
+E. Piano,SA EP1 Stack,E. Piano: SA EP1 Stack,32,66,5
+E. Piano,SA E.Piano 2,E. Piano: SA E.Piano 2,32,65,5
+E. Piano,Tremolo EP,E. Piano: Tremolo EP,0,69,4
+E. Piano,EP Belle,E. Piano: EP Belle,8,68,5
+E. Piano,BrillClav DB,E. Piano: BrillClav DB,1,64,7
+E. Piano,BrillClavWah,E. Piano: BrillClavWah,1,65,7
+E. Piano+,E. Piano 1,E. Piano+: E. Piano 1,16,67,4
+E. Piano+,E. Piano 2,E. Piano+: E. Piano 2,0,70,5
+E. Piano+,E. Piano 3,E. Piano+: E. Piano 3,24,65,4
+E. Piano+,Clav.,E. Piano+: Clav.,0,67,7
+E. Piano+,Vibraphone,E. Piano+: Vibraphone,0,0,11
+E. Piano+,Celesta,E. Piano+: Celesta,0,0,8
+E. Piano+,Synth Bell,E. Piano+: Synth Bell,0,68,98
+Strings,Chamber Str,Strings: Chamber Str,16,64,48
+Strings,String Exp,Strings: String Exp,16,65,48
+Strings,Full Strings,Strings: Full Strings,16,66,48
+Strings,Strings forI,Strings: Strings forI,16,67,48
+Strings,Epic Strings,Strings: Epic Strings,1,67,48
+Strings,Rich Strings,Strings: Rich Strings,0,71,49
+Strings,Orchestra,Strings: Orchestra,8,66,48
+Strings,Harpiness,Strings: Harpiness,0,70,46
+Strings,OrchestraBrs,Strings: OrchestraBrs,1,66,60
+Strings,SymphonicStr1,Strings: SymphonicStr1,1,67,49
+Strings,SymphonicStr2,Strings: SymphonicStr2,1,65,49
+Strings+,Strings 2,Strings+: Strings 2,0,64,48
+Strings+,Harpiness,Strings+: Harpiness,0,68,46
+Organ,B.Organ Slow,Organ: B.Organ Slow,1,65,18
+Organ,Pipe Organ,Organ: Pipe Organ,8,70,19
+Organ,Nason flt 8',Organ: Nason flt 8',16,66,19
+Organ,Combo Jz.Org,Organ: Combo Jz.Org,0,70,18
+Organ,Ballad Organ,Organ: Ballad Organ,0,69,18
+Organ,ChurchOrgan1,Organ: ChurchOrgan1,0,66,19
+Organ,ChurchOrgan2,Organ: ChurchOrgan2,8,69,19
+Organ,Gospel Spin,Organ: Gospel Spin,0,71,16
+Organ,Full Stops,Organ: Full Stops,0,69,16
+Organ,Mellow Bars,Organ: Mellow Bars,32,68,16
+Organ,Lower Organ,Organ: Lower Organ,0,66,16
+Organ,Light Organ,Organ: Light Organ,32,69,16
+Organ,Animal Mod,Organ: Animal Mod,16,65,16
+Organ,Surf Monkeys,Organ: Surf Monkeys,16,66,16
+Organ,Rising Sun,Organ: Rising Sun,16,76,16
+Pad,Super SynPad,Pad: Super SynPad,1,71,89
+Pad,Choir Aahs 1,Pad: Choir Aahs 1,8,71,52
+Pad,Choir Aahs 2,Pad: Choir Aahs 2,8,72,52
+Pad,D50 StackPad,Pad: D50 StackPad,1,64,88
+Pad,Legend Pad,Pad: Legend Pad,0,66,92
+Pad,Voice of Hvn,Pad: Voice of Hvn,1,64,91
+Pad,New Jupiter,Pad: New Jupiter,0,69,97
+Pad,ChordofCnada,Pad: ChordofCnada,0,67,97
+Pad,JP8 Strings,Pad: JP8 Strings,0,68,50
+Pad,Air Pad,Pad: Air Pad,1,66,53
+Pad,Boreal Pad,Pad: Boreal Pad,0,68,97
+Pad,JP8 Hollow,Pad: JP8 Hollow,1,70,89
+Pad,Soft Pad,Pad: Soft Pad,0,64,89
+Pad,Solina,Pad: Solina,0,66,50
+Pad,Tron Strings,Pad: Tron Strings,0,67,50
+Pad+,Choir 1,Pad+: Choir 1,8,64,52
+Pad+,Choir 2,Pad+: Choir 2,8,66,52
+Pad+,Choir 3,Pad+: Choir 3,8,68,52
+Other,Super Saw,Other: Super Saw,8,67,81
+Other,Trancy Synth,Other: Trancy Synth,1,65,90
+Other,Flip Pad,Other: Flip Pad,1,64,90
+Other,D50 Fantasia,Other: D50 Fantasia,0,64,88
+Other,D50 Stac Hvn,Other: D50 Stac Hvn,1,65,88
+Other,D50 FuturePd,Other: D50 FuturePd,0,71,100
+Other,D50 DigiNDnc,Other: D50 DigiNDnc,0,66,102
+Other,EQ Lead,Other: EQ Lead,8,68,81
+Other,DelyResoSaws,Other: DelyResoSaws,0,67,102
+Other,StrawberyFlt,Other: StrawberyFlt,0,70,73
+Other,Jazz Scat,Other: Jazz Scat,0,65,54
+Other,Ac.Bass wRel,Other: Ac.Bass wRel,0,67,32
+Other,Comp'd JBass,Other: Comp'd JBass,0,66,33
+Other,A.Bass+Cymbl,Other: A.Bass+Cymbl,0,66,32
+Other+,Accordion,Other+: Accordion,0,68,21
+Other+,Nylon-str.Gt,Other+: Nylon-str.Gt,0,0,24
+Other+,Steel-str.Gt,Other+: Steel-str.Gt,0,0,25
+Other+,Decay Choir,Other+: Decay Choir,1,64,52
+Other+,Decay Choir Pad,Other+: Decay Choir Pad,1,66,89
+Other+,Acoustic Bass,Other+: Acoustic Bass,0,0,32
+Other+,Fingered Bass,Other+: Fingered Bass,0,0,33
+Other+,Thum Voice,Other+: Thum Voice,0,66,53
