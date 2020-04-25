@@ -1,0 +1,36 @@
+type,name,MSB,LSB,PC
+Orchestra Ensemble,Stereo String Ensemble,121,0,48
+Orchestra Ensemble,Slow Strings,121,1,48
+Orchestra Ensemble,60's Strings,121,2,48
+Orchestra Ensemble,60 Orchestra,121,3,48
+Orchestra Ensemble,Orchestra,121,4,48
+Orchestra Ensemble,Orchestra 2,121,5,48
+Orchestra Ensemble,Velo Strings,121,6,48
+Orchestra Ensemble,Mono String Ensemble,121,0,49
+Orchestra Ensemble,Stereo Slow Strings,121,1,49
+Orchestra Ensemble,Legato Strings,121,2,49
+Orchestra Ensemble,Warm Strings,121,3,49
+Orchestra Ensemble,Kingdom,121,4,49
+Orchestra Ensemble,Staccato Strings,121,5,49
+Orchestra Ensemble,Chrome,121,6,49
+Orchestra Ensemble,Synth Strings 1,121,0,50
+Orchestra Ensemble,Synth Strings 3,121,1,50
+Orchestra Ensemble,Synth Strings 2,121,0,51
+Orchestra Ensemble,Synth Strings 4,121,1,51
+Orchestra Ensemble,Choir Aah,121,0,52
+Orchestra Ensemble,Choir Aah 2,121,1,52
+Orchestra Ensemble,Stereo Choir,121,2,52
+Orchestra Ensemble,Mellow Choir,121,3,52
+Orchestra Ensemble,Losers Aah,121,4,52
+Orchestra Ensemble,Voice Doo,121,0,53
+Orchestra Ensemble,Humming,121,1,53
+Orchestra Ensemble,Synth Voice,121,0,54
+Orchestra Ensemble,Synth Voice 2,121,1,54
+Orchestra Ensemble,Choral,121,2,54
+Orchestra Ensemble,Analog Voice,121,3,54
+Orchestra Ensemble,Orchestra Hit,121,0,55
+Orchestra Ensemble,Bass Hit,121,1,55
+Orchestra Ensemble,6th Hit,121,2,55
+Orchestra Ensemble,Euro Hit,121,3,55
+Orchestra Ensemble,Orchestra Hit 2,121,4,55
+Orchestra Ensemble,Impact,121,5,55

@@ -1,0 +1,19 @@
+type,name,MSB,LSB,PC
+Wind,Piccolo,121,0,72
+Wind,Orange Flute,121,1,72
+Wind,Flute,121,0,73
+Wind,Pure Flute,121,1,73
+Wind,Sweet Flute,121,2,73
+Wind,Recorder,121,0,74
+Wind,Piano Horn,121,1,74
+Wind,Pan Flute,121,0,75
+Wind,Warp Whistle,121,1,75
+Wind,Sweet Pan,121,2,75
+Wind,Plastic Bottle Blow,121,0,76
+Wind,Glass Bottle Blow,121,1,76
+Wind,Shakuhachi,121,0,77
+Wind,India,121,1,77
+Wind,Irish Tin Whistle,121,0,78
+Wind,Mouth Whistle,121,1,78
+Wind,Ocarina,121,0,79
+Wind,Synth Flute,121,1,79

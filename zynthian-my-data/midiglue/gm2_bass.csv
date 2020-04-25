@@ -1,0 +1,36 @@
+type,name,MSB,LSB,PC
+Bass,Acoustic Bass,121,0,32
+Bass,Jazz Rhythm,121,1,32
+Bass,VX Upright,121,2,32
+Bass,Electric Bass,121,0,33
+Bass,Finger Dark,121,1,33
+Bass,Bass Guitar EG,121,2,33
+Bass,Finger Slap,121,3,33
+Bass,Mode Bass,121,4,33
+Bass,Picked Bass,121,0,34
+Bass,Moded Pick,121,1,34
+Bass,Mute Pick Bass,121,2,34
+Bass,Fretless Bass,121,0,35
+Bass,Fretless 2,121,1,35
+Bass,Fretless 3,121,2,35
+Bass,Fretless 4,121,3,35
+Bass,Slap Bass 1,121,0,36
+Bass,Punch Theme,121,1,36
+Bass,Slap Bass 2,121,0,37
+Bass,Velo Slap,121,1,37
+Bass,Synth Bass 1,121,0,38
+Bass,Synth Bass 101,121,1,38
+Bass,Synth Bass 3,121,2,38
+Bass,Clavi Bass,121,3,38
+Bass,Hammer,121,4,38
+Bass,Techno Bass,121,5,38
+Bass,Synth Bass 2,121,0,39
+Bass,Synth Bass 4,121,1,39
+Bass,Rubber Bass,121,2,39
+Bass,Attack Pulse,121,3,39
+Bass,Mellow Synth Bass,121,4,39
+Bass,Sequenced Bass,121,5,39
+Bass,Click Bass,121,6,39
+Bass,Synth Bass 2 Dark,121,7,39
+Bass,Moduler Bass,121,8,39
+Bass,DX Bass,121,9,39

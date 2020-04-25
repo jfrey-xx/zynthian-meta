@@ -1,0 +1,14 @@
+type,name,MSB,LSB,PC
+Orchestra Solo,Violin,121,0,40
+Orchestra Solo,Slow Violin,121,1,40
+Orchestra Solo,Viola,121,0,41
+Orchestra Solo,Cello,121,0,42
+Orchestra Solo,Slow Cello,121,1,42
+Orchestra Solo,Contrabass,121,0,43
+Orchestra Solo,Tremolo Strings,121,0,44
+Orchestra Solo,Slow Tremolo Strings,121,1,44
+Orchestra Solo,Suspend Strings,121,2,44
+Orchestra Solo,Pizzicato Strings,121,0,45
+Orchestra Solo,Harp,121,0,46
+Orchestra Solo,Yang Qin,121,1,46
+Orchestra Solo,Timpani,121,0,47

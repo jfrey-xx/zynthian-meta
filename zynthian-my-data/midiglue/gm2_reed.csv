@@ -1,0 +1,19 @@
+type,name,MSB,LSB,PC
+Reed,Soprano Sax,121,0,64
+Reed,Sweet Soprano,121,1,64
+Reed,Alto Sax,121,0,65
+Reed,Breathy Alto Sax,121,1,65
+Reed,Sax Section,121,2,65
+Reed,Tenor Sax,121,0,66
+Reed,Breathy Tenor Sax,121,1,66
+Reed,Sweet Tenor,121,2,66
+Reed,Baritone Sax,121,0,67
+Reed,Contrabass Sax,121,1,67
+Reed,Oboe,121,0,68
+Reed,Solo Oboe,121,1,68
+Reed,English Horn,121,0,69
+Reed,Fails,121,1,69
+Reed,Bassoon,121,0,70
+Reed,Contrabassoon,121,1,70
+Reed,Clarinet,121,0,71
+Reed,Bass Clarinet,121,1,71

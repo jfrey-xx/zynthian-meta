@@ -1,0 +1,39 @@
+type,name,MSB,LSB,PC
+Organ,Tonewheel Organ,121,0,16
+Organ,Detuned Organ 1,121,1,16
+Organ,60's Organ 1,121,2,16
+Organ,Organ 4,121,3,16
+Organ,60's Organ 2,121,4,16
+Organ,70's Organ 1,121,5,16
+Organ,70's Organ 3,121,6,16
+Organ,Calasthetic,121,7,16
+Organ,Jazz Organ,121,8,16
+Organ,Organ Base,121,9,16
+Organ,Cheez Combo,121,10,16
+Organ,70's Organ 2,121,11,16
+Organ,Tonewheel 2,121,12,16
+Organ,Percussive Organ,121,0,17
+Organ,Detuned Organ 2,121,1,17
+Organ,Organ 5,121,2,17
+Organ,Lite Organ,121,3,17
+Organ,Percussive Organ 2,121,4,17
+Organ,Voice Organ,121,5,17
+Organ,Rock Organ,121,0,18
+Organ,Rotary Organ,121,1,18
+Organ,Slow Rotary,121,2,18
+Organ,Fast Rotary,121,3,18
+Organ,Purple Organ,121,4,18
+Organ,Church Organ 1,121,0,19
+Organ,Church Organ 2,121,1,19
+Organ,Church Organ 3,121,2,19
+Organ,Notre Dame,121,3,19
+Organ,Organ Flute,121,4,19
+Organ,Tremolo Organ Flute,121,5,19
+Organ,Chapel,121,6,19
+Organ,Reed Organ,121,0,20
+Organ,Puff Organ,121,1,20
+Organ,French Accordion,121,0,21
+Organ,Italian Accordion,121,1,21
+Organ,Harmonica,121,0,22
+Organ,Modern Harp,121,1,22
+Organ,Bandoneon,121,0,23

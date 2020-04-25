@@ -1,0 +1,25 @@
+type,name,MSB,LSB,PC
+Ethnic,Sitar,121,0,104
+Ethnic,Sitar 2,121,1,104
+Ethnic,Detuned Sitar,121,2,104
+Ethnic,Sitar Pad,121,3,104
+Ethnic,Tamboura,121,4,104
+Ethnic,Banjo,121,0,105
+Ethnic,Mute Banjo,121,1,105
+Ethnic,Zheng,121,2,105
+Ethnic,Rabab,121,3,105
+Ethnic,Gopintch,121,4,105
+Ethnic,Oud,121,5,105
+Ethnic,Shamisen,121,0,106
+Ethnic,Tsugaru,121,1,106
+Ethnic,Koto,121,0,107
+Ethnic,Taisho Koto,121,1,107
+Ethnic,Kanoon,121,2,107
+Ethnic,Pi Pa,121,3,107
+Ethnic,Thumb Piano,121,0,108
+Ethnic,Bagpipe,121,0,109
+Ethnic,Sheng,121,1,109
+Ethnic,Sou Na,121,2,109
+Ethnic,Fiddle,121,0,110
+Ethnic,Shanai,121,0,111
+Ethnic,Di Zi,121,1,111

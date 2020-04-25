@@ -1,0 +1,35 @@
+type,name,MSB,LSB,PC
+Synth Lead,Square Lead,121,0,80
+Synth Lead,Square Lead 2,121,1,80
+Synth Lead,LM Square,121,2,80
+Synth Lead,Hollow,121,3,80
+Synth Lead,Shroud,121,4,80
+Synth Lead,Mellow,121,5,80
+Synth Lead,Solo Sine,121,6,80
+Synth Lead,Sine Lead,121,7,80
+Synth Lead,Saw Lead,121,0,81
+Synth Lead,Saw Lead 2,121,1,81
+Synth Lead,Thick Saw,121,2,81
+Synth Lead,Dyna Saw,121,3,81
+Synth Lead,Digi Saw,121,4,81
+Synth Lead,Doctor Solo,121,5,81
+Synth Lead,Natural Lead,121,6,81
+Synth Lead,Sequenced Analog,121,7,81
+Synth Lead,Synth Calliope,121,0,82
+Synth Lead,Vent Lead,121,1,82
+Synth Lead,Vent Synth,121,2,82
+Synth Lead,Pure Lead,121,3,82
+Synth Lead,Chiffer Lead,121,0,83
+Synth Lead,Sequenced Lead,121,1,83
+Synth Lead,Charang,121,0,84
+Synth Lead,Wire Lead,121,1,84
+Synth Lead,Distortion Lead,121,2,84
+Synth Lead,Solo Synth Vox,121,0,85
+Synth Lead,5th Saw Wave,121,0,86
+Synth Lead,Big Five,121,1,86
+Synth Lead,Bass & Lead,121,0,87
+Synth Lead,Delayed Lead,121,1,87
+Synth Lead,Big & Low,121,2,87
+Synth Lead,Little & High,121,3,87
+Synth Lead,Fat & Perky,121,4,87
+Synth Lead,Soft Whirl,121,5,87

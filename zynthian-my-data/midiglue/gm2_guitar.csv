@@ -1,0 +1,29 @@
+type,name,MSB,LSB,PC
+Guitar,Nylon-String Guitar,121,0,24
+Guitar,Ukulele,121,1,24
+Guitar,Open Nylon Guitar,121,2,24
+Guitar,Nylon Guitar 2,121,3,24
+Guitar,Velo Guitar Harmony,121,4,24
+Guitar,Steel-String Guitar,121,0,25
+Guitar,12-String Guitar,121,1,25
+Guitar,Mandolin,121,2,25
+Guitar,Steel + Body,121,3,25
+Guitar,Nylon + Steel,121,4,25
+Guitar,Jazz Guitar,121,0,26
+Guitar,Hawaiian Guitar,121,1,26
+Guitar,Jazz Amp,121,2,26
+Guitar,Clean Electric Guitar,121,0,27
+Guitar,Chorus Guitar,121,1,27
+Guitar,Mid Tone Guitar,121,2,27
+Guitar,Muted Electric Guitar,121,0,28
+Guitar,Funk Guitar,121,1,28
+Guitar,Funk Guitar 2,121,2,28
+Guitar,Jazz Man,121,3,28
+Guitar,Overdriven Guitar,121,0,29
+Guitar,Guitar Pinch,121,1,29
+Guitar,Distortion Guitar,121,0,30
+Guitar,Feedback Guitar,121,1,30
+Guitar,Distortion Rtm Guitar,121,2,30
+Guitar,Guitar Harmonics,121,0,31
+Guitar,Guitar Feedback,121,1,31
+Guitar,Guitar Harmonics 2,121,2,31

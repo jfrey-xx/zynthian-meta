@@ -1,0 +1,22 @@
+type,name,MSB,LSB,PC
+Synth Pad,Fantasia,121,0,88
+Synth Pad,Fantasy,121,1,88
+Synth Pad,Warm Pad,121,0,89
+Synth Pad,Sine Pad,121,1,89
+Synth Pad,Polysynth Pad,121,0,90
+Synth Pad,Polymer,121,1,90
+Synth Pad,Space Voice,121,0,91
+Synth Pad,Itopia,121,1,91
+Synth Pad,Square Pad,121,2,91
+Synth Pad,Bowed Glass Pad,121,0,92
+Synth Pad,Bell Pad,121,1,92
+Synth Pad,Metal Pad,121,0,93
+Synth Pad,Xenon Pad,121,1,93
+Synth Pad,Halo Pad,121,0,94
+Synth Pad,Halo Pad Variation,121,1,94
+Synth Pad,Halo Pad Phase,121,2,94
+Synth Pad,Halo Pad Legend,121,3,94
+Synth Pad,Angels,121,4,94
+Synth Pad,Equinox,121,5,94
+Synth Pad,Sweep Pad,121,0,95
+Synth Pad,Dark Moon,121,1,95

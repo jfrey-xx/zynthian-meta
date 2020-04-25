@@ -1,0 +1,29 @@
+type,name,MSB,LSB,PC
+Brass,Trumpet,121,0,56
+Brass,Dark Trumpet,121,1,56
+Brass,Warm Trumpet,121,2,56
+Brass,Sweet Trumpet,121,3,56
+Brass,Trombone,121,0,57
+Brass,Trombone 2,121,1,57
+Brass,Bright Trombone,121,2,57
+Brass,Tuba,121,0,58
+Brass,Wet Willy,121,1,58
+Brass,Muted Trumpet,121,0,59
+Brass,Muted Trumpet 2,121,1,59
+Brass,French Horns,121,0,60
+Brass,French Horn 2,121,1,60
+Brass,Solo Horn,121,2,60
+Brass,Horn Orchestra,121,3,60
+Brass,Brass Section 1,121,0,61
+Brass,Brass Section 2,121,1,61
+Brass,Big Band Brass,121,2,61
+Brass,Synth Brass 1,121,0,62
+Brass,Synth Brass 3,121,1,62
+Brass,Analog Brass 1,121,2,62
+Brass,Jump Brass,121,3,62
+Brass,Rezzo Synth Brass,121,4,62
+Brass,Synth Brass 2,121,0,63
+Brass,Synth Brass 4,121,1,63
+Brass,Analog Brass 2,121,2,63
+Brass,Soft Brass,121,3,63
+Brass,Choir Brass,121,4,63

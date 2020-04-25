@@ -1,0 +1,25 @@
+type,name,MSB,LSB,PC
+Percussive,Tinkle Bell,121,0,112
+Percussive,Bonang,121,1,112
+Percussive,Altair,121,2,112
+Percussive,Gamelan,121,3,112
+Percussive,S. Gamelan,121,4,112
+Percussive,Rama Cymbal,121,5,112
+Percussive,Agogo,121,0,113
+Percussive,Tine Bell,121,1,113
+Percussive,Steel Drums,121,0,114
+Percussive,Glass Percussion,121,1,114
+Percussive,Thai Bells,121,2,114
+Percussive,Woodblock,121,0,115
+Percussive,Castanets,121,1,115
+Percussive,Taiko,121,0,116
+Percussive,Concert Bass Drum,121,1,116
+Percussive,Grand Cassandra,121,2,116
+Percussive,Melodic Tom 1,121,0,117
+Percussive,Melodic Tom 2,121,1,117
+Percussive,Real Tom,121,2,117
+Percussive,Rock Tom,121,3,117
+Percussive,Synth Drum,121,0,118
+Percussive,Analog Tom,121,1,118
+Percussive,Electric Percussion,121,2,118
+Percussive,Reverse Cymbal,121,0,119
